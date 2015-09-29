@@ -1,0 +1,4 @@
+To use it:
+1. Place images under 'images' directory.
+2. run save_xxx.m to save features.
+3. run fig.m, the main program
